@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+aside {
+  width: 20%;
+  padding: 8px;
+  margin: 10px;
+  float:inline-start;
+  font-style: italic;
+  background-color: lightgray;
+ }
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
